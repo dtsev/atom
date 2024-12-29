@@ -10,7 +10,7 @@ atom includes many features like:
 <details>
 <summary>Features</summary>
 
- - new ui and text rendering engine whick gives you cool things like emoji support
+ - new ui and text rendering engine which gives you cool things like emoji support
  - fast game startup
  - world generation preview
  - chunk optimization
