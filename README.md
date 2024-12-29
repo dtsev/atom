@@ -20,9 +20,9 @@ atom includes many features like:
 
 
 
-# Performance Tests
+# Performance Tests🚗
 
-there's dont much test results but this list will be expanded in the future (i think...)
+There are not many test results, but this list will be extended in the future (I think...)
 
 <details>
 <summary>Tests</summary>
@@ -33,12 +33,17 @@ there's dont much test results but this list will be expanded in the future (i t
 
 </details>
 
-# Known Problem/Incompatibilities
 
-well for now there's only one significant problem and it's cyrillic support with ModernUI,
-if you didn't like smooth font you can turn it off by going to Ctrl/⌘+K>Preferences>Text Layout>Default Font Beahvoir and set it to **Keep All**, but then cyrillic text would be looking like empty space, so the only to ways to fix it is:
+# Installation⏬
+
+To install atom for now you can only [download it from modrinth](https://modrinth.com/modpack/atommodpack)
+
+# Known Problems/Incompatibilities🧱
+
+well for now there's only one significant problem at the moment, and that's the Cyrillic support in ModernUI,
+If you don't like the smooth font, you can disable it by going to Ctrl/⌘+K>Preferences>Text Layout>Default Font Behavior and set **Keep All**, but then the Cyrillic text will look like empty space, so the only way to fix it is as follows:
 1. stay with the smooth font
-2. disable new text engine by going to Ctrl/⌘+K>Preferences>Extensions>Modern Text Engine set to off, but then things like emojis and markdown not going to work
+2. disable the new text engine by going to Ctrl/⌘+K>Options>Extensions>Modern Text Engine and disabling it, but then things like emoji and markup won't work
 
 # FAQ
 > **Q**: _will be it on forge?_
