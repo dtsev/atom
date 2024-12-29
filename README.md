@@ -1,4 +1,6 @@
-# About⁉️
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/bCuB6o0F?style=flat&logo=modrinth&logoColor=%2300AF5C&color=%2300AF5C)
+
+# About⁉
 ![mod header](https://cdn.modrinth.com/data/cached_images/32a8ad54e3938e3ae4fba92a2a88bf91b1e816eb.jpeg)
 **atom** - is a mini modpack focusing on minimal optimization for the best output! **atom**  can be a solid base for your modpack
 # Features📋
